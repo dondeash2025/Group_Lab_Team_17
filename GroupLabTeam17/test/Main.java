@@ -7,7 +7,7 @@
  *
  * @author ashleshadonde
  */
-public class Main {
+public class main {
     public static void main(String[] args) {
         Ashlesha.main(args);
         Saili.main(args);
@@ -15,4 +15,3 @@ public class Main {
         Rohit.main(args);
      }
 }
-
